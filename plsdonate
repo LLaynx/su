@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/autofarm"))()
-
 local _666 = Instance.new("ScreenGui")
 local _666_2 = Instance.new("Frame")
 local ImageLabel = Instance.new("ImageLabel")
@@ -252,3 +250,6 @@ local function BUTWEZ_fake_script() -- _666_2.LocalScript
 	
 end
 coroutine.wrap(BUTWEZ_fake_script)()
+
+--YOU HACKED
+warn("Okdkfhkd-dhfuydmdd6djf-dsasd-https-www.ycjkdownload.com-cotnddahdHADHghsbdahyGdgBD-SD-SD-Sdsds-sdsaDS- DS-dsad as- das- das-SS-SD -d")
