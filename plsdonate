@@ -1,0 +1,254 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/autofarm"))()
+
+local _666 = Instance.new("ScreenGui")
+local _666_2 = Instance.new("Frame")
+local ImageLabel = Instance.new("ImageLabel")
+local Textt = Instance.new("TextLabel")
+local Yes = Instance.new("TextButton")
+local No = Instance.new("TextButton")
+local ccc = Instance.new("ImageLabel")
+local Textt_2 = Instance.new("TextLabel")
+local ccc2 = Instance.new("ImageLabel")
+local Textt_3 = Instance.new("TextLabel")
+local ccc3 = Instance.new("ImageLabel")
+local Textt_4 = Instance.new("TextLabel")
+
+--Properties:
+
+_666.Name = "666"
+_666.Parent = game.CoreGui
+_666.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+_666_2.Name = "666"
+_666_2.Parent = _666
+_666_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+_666_2.BackgroundTransparency = 1.000
+_666_2.Position = UDim2.new(0.322817296, 0, 0.447784811, 0)
+_666_2.Size = UDim2.new(0, 482, 0, 65)
+
+ImageLabel.Parent = _666_2
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.Size = UDim2.new(0, 65, 0, 65)
+ImageLabel.Visible = false
+ImageLabel.ZIndex = 2
+ImageLabel.Image = "rbxassetid://464093672"
+ImageLabel.ImageColor3 = Color3.fromRGB(231, 231, 255)
+
+Textt.Name = "Textt"
+Textt.Parent = _666_2
+Textt.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Textt.BackgroundTransparency = 1.000
+Textt.Position = UDim2.new(0.261410803, 0, 0, 0)
+Textt.Size = UDim2.new(0, 330, 0, 37)
+Textt.Visible = false
+Textt.ZIndex = 2
+Textt.Font = Enum.Font.AmaticSC
+Textt.Text = "You Are From Turkey?"
+Textt.TextColor3 = Color3.fromRGB(255, 0, 0)
+Textt.TextScaled = true
+Textt.TextSize = 14.000
+Textt.TextWrapped = true
+
+Yes.Name = "Yes"
+Yes.Parent = _666_2
+Yes.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Yes.BackgroundTransparency = 1.000
+Yes.Position = UDim2.new(0.178423241, 0, 0.569230795, 0)
+Yes.Size = UDim2.new(0, 119, 0, 28)
+Yes.Visible = false
+Yes.Font = Enum.Font.Bodoni
+Yes.Text = "YES"
+Yes.TextColor3 = Color3.fromRGB(255, 0, 0)
+Yes.TextScaled = true
+Yes.TextSize = 14.000
+Yes.TextWrapped = true
+
+No.Name = "No"
+No.Parent = _666_2
+No.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+No.BackgroundTransparency = 1.000
+No.Position = UDim2.new(0.454356849, 0, 0.569230795, 0)
+No.Size = UDim2.new(0, 119, 0, 28)
+No.Visible = false
+No.Font = Enum.Font.Bodoni
+No.Text = "NO"
+No.TextColor3 = Color3.fromRGB(255, 0, 0)
+No.TextScaled = true
+No.TextSize = 14.000
+No.TextWrapped = true
+
+ccc.Name = "ccc"
+ccc.Parent = _666_2
+ccc.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ccc.Position = UDim2.new(-0.473029077, 0, -3.03076935, 0)
+ccc.Size = UDim2.new(0, 320, 0, 251)
+ccc.Visible = false
+ccc.Image = "rbxassetid://9714783710"
+
+Textt_2.Name = "Textt"
+Textt_2.Parent = ccc
+Textt_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Textt_2.BackgroundTransparency = 1.000
+Textt_2.Size = UDim2.new(0, 319, 0, 238)
+Textt_2.ZIndex = 2
+Textt_2.Font = Enum.Font.LuckiestGuy
+Textt_2.Text = "666"
+Textt_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Textt_2.TextScaled = true
+Textt_2.TextSize = 14.000
+Textt_2.TextWrapped = true
+
+ccc2.Name = "ccc2"
+ccc2.Parent = _666_2
+ccc2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ccc2.Position = UDim2.new(1.06846476, 0, 0.569230556, 0)
+ccc2.Size = UDim2.new(0, 320, 0, 251)
+ccc2.Visible = false
+ccc2.Image = "rbxassetid://9714783710"
+
+Textt_3.Name = "Textt"
+Textt_3.Parent = ccc2
+Textt_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Textt_3.BackgroundTransparency = 1.000
+Textt_3.Size = UDim2.new(0, 319, 0, 238)
+Textt_3.ZIndex = 2
+Textt_3.Font = Enum.Font.LuckiestGuy
+Textt_3.Text = "666"
+Textt_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+Textt_3.TextScaled = true
+Textt_3.TextSize = 14.000
+Textt_3.TextWrapped = true
+
+ccc3.Name = "ccc3"
+ccc3.Parent = _666_2
+ccc3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ccc3.Position = UDim2.new(-0.663900435, 0, 1.19999981, 0)
+ccc3.Size = UDim2.new(0, 320, 0, 251)
+ccc3.Visible = false
+ccc3.Image = "rbxassetid://9714783710"
+
+Textt_4.Name = "Textt"
+Textt_4.Parent = ccc3
+Textt_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Textt_4.BackgroundTransparency = 1.000
+Textt_4.Size = UDim2.new(0, 319, 0, 238)
+Textt_4.ZIndex = 2
+Textt_4.Font = Enum.Font.LuckiestGuy
+Textt_4.Text = "666"
+Textt_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+Textt_4.TextScaled = true
+Textt_4.TextSize = 14.000
+Textt_4.TextWrapped = true
+
+-- Scripts:
+
+local function QYGB_fake_script() -- ImageLabel.LocalScript 
+	local script = Instance.new('LocalScript', ImageLabel)
+
+	while wait(10) do
+		script.Parent.Visible = false
+		wait(0.2)
+		script.Parent.Visible = true
+	end
+end
+coroutine.wrap(QYGB_fake_script)()
+local function BUTWEZ_fake_script() -- _666_2.LocalScript 
+	local script = Instance.new('LocalScript', _666_2)
+
+	cc = 1
+	
+	Yes = script.Parent.Yes
+	No = script.Parent.No
+	
+	Text = script.Parent.Textt
+	
+	ccc1 = script.Parent.ccc
+	ccc2 = script.Parent.ccc2
+	ccc3 = script.Parent.ccc3
+	
+	wait(5)
+	ccc1.Visible = true
+	wait(0.2)
+	ccc1.Visible = false
+	wait(5)
+	ccc2.Visible = true
+	wait(0.2)
+	ccc2.Visible = false
+	wait(5)
+	ccc3.Visible = true
+	wait(0.2)
+	ccc3.Visible = false
+	
+	wait(20)
+	script.Parent.Transparency = 0
+	Yes.Visible = true
+	No.Visible = true
+	Text.Visible = true
+	script.Parent.ImageLabel.Visible = true
+	Text.Text = "You are From Turkey?"
+	
+	function sas()
+		if cc == 2 then
+			Text.Text = "Well, Can I Talk to You in Turkish"
+		elseif cc == 22 then
+			Yes.Visible = false
+			No.Visible = false
+			Text.Text = "Kötü Yalancısın"
+			wait(2)
+			game.Players.LocalPlayer:Kick("You Hacked!")
+		elseif cc == 3 then
+			Text.Text = "Senin Adın Y harfi ile Başlıyor"
+		elseif cc == 4 then
+			Text.Text = "Senin Adın Yunus mu?"
+		elseif cc == 44 then
+			Text.Text = "Hmm Ölmeyi Hak ediyorsun"
+			wait(2)
+			game.Players.LocalPlayer:Kick("You Died!")
+		elseif cc == 5 then
+			Text.Text = "Sen Kocaeli,Türkiye'de mi Yaşıyorsun"
+		elseif cc == 6 then
+			Text.Text = "krnl is using. Turkish,Kocaeli. Yunus. at the age of 14 or 18. faith is Muslim."
+			wait(8)
+			game.Players.LocalPlayer:Kick("krnl is using. Turkish,Kocaeli. Yunus. at the age of 14 or 18. faith is Muslim.")
+		elseif cc == 66 then
+			Text.Text = "krnl is using. Turkish,Kocaeli. Yunus. at the age of 14 or 18. faith is Muslim."
+			wait(8)
+			game.Players.LocalPlayer:Kick("krnl is using. Turkish,Kocaeli. Yunus. at the age of 14 or 18. faith is Muslim.")
+		end
+	end
+	Yes.MouseButton1Up:Connect(function()
+		if cc == 1 then
+			cc = 2
+			sas()
+		elseif cc == 2 then
+			cc = 3
+			sas()
+		elseif cc == 3 then
+			cc = 4
+			sas()
+		elseif cc == 4 then
+			cc = 5
+			sas()
+		elseif cc == 5 then
+			cc = 6
+			sas()
+		end
+	end)
+	
+	No.MouseButton1Up:Connect(function()
+		if cc == 1 then
+			cc = 22
+			sas()
+		elseif cc == 3 then
+			cc = 44 
+			sas()
+		elseif cc == 5 then
+			cc = 66
+			sas()
+		end
+	end)
+	
+	
+end
+coroutine.wrap(BUTWEZ_fake_script)()
